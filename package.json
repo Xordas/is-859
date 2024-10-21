@@ -1,0 +1,12 @@
+{
+  "name": "is-859",
+  "version": "1.0.0",
+  "description": "A node module to check if a number is equal to the number 859",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
